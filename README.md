@@ -1,0 +1,2 @@
+# FileDigger
+Breaks directory hierarchies
