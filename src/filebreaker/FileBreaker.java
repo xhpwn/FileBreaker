@@ -1,4 +1,4 @@
-package filedigger;
+package filebreaker;
 
 /**
  *
@@ -6,7 +6,7 @@ package filedigger;
  * anubhav@saxena.xyz
  * http://saxena.xyz
  */
-public class FileDigger {
+public class FileBreaker {
 
     public static void main(String[] args) {
     }

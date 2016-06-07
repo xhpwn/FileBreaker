@@ -1,4 +1,4 @@
-package filedigger;
+package filebreaker;
 
 /**
  *
@@ -47,7 +47,7 @@ public class Launcher extends javax.swing.JFrame {
 
         title.setFont(new java.awt.Font("Dialog", 1, 28)); // NOI18N
         title.setForeground(new java.awt.Color(255, 255, 255));
-        title.setText("FileDigger");
+        title.setText("FileBreaker");
         getContentPane().add(title, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 10, -1, -1));
 
         textline.setForeground(new java.awt.Color(255, 255, 255));
@@ -81,10 +81,10 @@ public class Launcher extends javax.swing.JFrame {
 
         versioninglabel.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
         versioninglabel.setForeground(new java.awt.Color(255, 102, 51));
-        versioninglabel.setText("FileDigger v1.0");
+        versioninglabel.setText("FileBreaker v1.0");
         getContentPane().add(versioninglabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 180, -1, -1));
 
-        bgimg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/filedigger/img/bimg.png"))); // NOI18N
+        bgimg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/filebreaker/img/bimg.png"))); // NOI18N
         getContentPane().add(bgimg, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 600, 500));
 
         versioninglabel2.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
